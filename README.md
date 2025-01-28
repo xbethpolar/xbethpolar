@@ -39,7 +39,7 @@
 ###
 
 <div align = "center">
-  <img src = "https://skillicons.dev/icons?i=github,git,figma,vscode,eclipse,androidstudio&perline=3"> 
+  <img src = "https://skillicons.dev/icons?i=github,git,figma,vscode,eclipse,androidstudio,linux,notion&perline=4"> 
 </div>
 
 ###
