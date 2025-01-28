@@ -48,5 +48,5 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xbethpolar&theme=aura&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xbethpolar&theme=transparent&title_color=B392F7FF&text_color=7A4EAB&icon_color=C084FC&show_icons=true"/>
 </div>
